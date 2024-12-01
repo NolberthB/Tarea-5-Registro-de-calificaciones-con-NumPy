@@ -30,7 +30,7 @@ calificacion_max_parcial1 = np.max(calificaciones[:, 0])
 # Calificación más baja del segundo parcial (segunda columna)
 calificacion_min_parcial2 = np.min(calificaciones[:, 1])
 
-# Paso 3: Imprimir el resumen estadístico
+# Paso 3: Imprimir el resumen estadístico y imprime solo dos decimales
 print("Resumen Estadístico de Calificaciones:")
 print(f"Promedio final del grupo: {np.round(promedio_final, 2)}")
 print(f"Calificación final más alta del grupo: {np.round(calificacion_final_max, 2)}")
