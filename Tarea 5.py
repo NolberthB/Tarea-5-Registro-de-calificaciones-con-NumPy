@@ -32,9 +32,9 @@ calificacion_min_parcial2 = np.min(calificaciones[:, 1])
 
 # Paso 3: Imprimir el resumen estadístico
 print("Resumen Estadístico de Calificaciones:")
-print(f"Promedio final del grupo: {np.round(promedio_final, 1)}")
-print(f"Calificación final más alta del grupo: {np.round(calificacion_final_max, 1)}")
-print(f"Calificación final más baja del grupo: {np.round(calificacion_final_min, 1)}")
-print(f"Calificación más alta del primer parcial: {np.round(calificacion_max_parcial1, 1)}")
-print(f"Calificación más baja del segundo parcial: {np.round(calificacion_min_parcial2, 1)}")
+print(f"Promedio final del grupo: {np.round(promedio_final, 2)}")
+print(f"Calificación final más alta del grupo: {np.round(calificacion_final_max, 2)}")
+print(f"Calificación final más baja del grupo: {np.round(calificacion_final_min, 2)}")
+print(f"Calificación más alta del primer parcial: {np.round(calificacion_max_parcial1, 2)}")
+print(f"Calificación más baja del segundo parcial: {np.round(calificacion_min_parcial2, 2)}")
 
