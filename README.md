@@ -45,7 +45,7 @@ print(f"Calificación más baja del segundo parcial: {calificacion_min_parcial2}
 ```
 
 ## Referencias
-Documentación oficial de NumPy
-np.array(): Función utilizada para crear el array de calificaciones.
-np.mean(): Función utilizada para calcular el promedio de las calificaciones.
-np.max() y np.min(): Funciones utilizadas para encontrar las calificaciones más altas y bajas.
+NumPy. (2023). Creating arrays. NumPy. https://numpy.org/doc/stable/user/basics.creation.html
+NumPy. (2023). numpy.mean. NumPy. https://numpy.org/doc/stable/reference/generated/numpy.mean.html#numpy.mean
+NumPy. (2023). numpy.min. NumPy. https://numpy.org/doc/stable/reference/generated/numpy.min.html
+NumPy. (2023). numpy.max. NumPy. https://numpy.org/doc/stable/reference/generated/numpy.max.html
