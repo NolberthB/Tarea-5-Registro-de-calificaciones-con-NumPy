@@ -46,6 +46,9 @@ print(f"Calificación más baja del segundo parcial: {calificacion_min_parcial2}
 
 ## Referencias
 NumPy. (2023). Creating arrays. NumPy. https://numpy.org/doc/stable/user/basics.creation.html
+
 NumPy. (2023). numpy.mean. NumPy. https://numpy.org/doc/stable/reference/generated/numpy.mean.html#numpy.mean
+
 NumPy. (2023). numpy.min. NumPy. https://numpy.org/doc/stable/reference/generated/numpy.min.html
+
 NumPy. (2023). numpy.max. NumPy. https://numpy.org/doc/stable/reference/generated/numpy.max.html
